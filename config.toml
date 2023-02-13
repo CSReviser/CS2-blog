@@ -33,7 +33,7 @@ paginate = 20
 # SNS等のユーザー名
 [Params.widgets.social]
   twitter = "CSReviser"
-  github = "CSReviser/CaptuerStream2"
+  github = "CSReviser/CaptureStream2"
 
 [Params.sidebar]
     home = "right"
