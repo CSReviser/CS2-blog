@@ -47,4 +47,6 @@ paginate = 20
       unsafe = true
       
 [outputs]
+  home = [ "HTML", "AMP", "RSS" ]
+  page = [ "HTML", "AMP", "RSS" ]
   section = ["JSON", "HTML", "RSS"]
