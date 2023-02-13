@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://csreviser.github.io/CS2-blogsitemap.xml
