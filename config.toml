@@ -45,3 +45,6 @@ paginate = 20
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+      
+[outputs]
+  section = ["JSON", "HTML", "RSS"]
