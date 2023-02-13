@@ -2,7 +2,7 @@
 title: "ブログ始めました"
 date: 2023-02-13
 categories: ["一般"]
-tags: ["go", "markdown"]
+tags: ["ブログ"]
 menu: main
 ---
 #### ブログを作ってみました。まずは語学講座CS2関連の情報発信に使う予定です。
