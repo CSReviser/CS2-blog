@@ -1,5 +1,5 @@
 # 公開するページのURL
-baseURL = "https://kat0h.github.io/hugo-blog-template"
+baseURL = "https://csreviser.github.io/CS2-blog"
 
 languageCode = "ja"
 DefaultContentLanguage = "ja"
@@ -7,16 +7,16 @@ HasCJKLanguage = true
 enableRobotsTXT = true
 
 # ブログのタイトル
-title = "hugo-blog-template"
+title = "語学講座CS2のブログ"
 
 theme = "mainroad"
 paginate = 20
 
 # 自己紹介
 [Author]
-    name = "Author"
-    bio = "ここに自己紹介を入れることができます"
-    avatar = "img/avatar.png"
+    name = "CSReviser"
+    bio = "語学講座CS2のブログです"
+    avatar = "https://avatars.githubusercontent.com/u/46049273?s=96&v=4"
 
 [Params]
     customCSS = ["css/custom.css"]
@@ -32,8 +32,8 @@ paginate = 20
 
 # SNS等のユーザー名
 [Params.widgets.social]
-  twitter = "uvrub"
-  github = "kato-k"
+  twitter = "CSReviser"
+  github = "CSReviser"
 
 [Params.sidebar]
     home = "right"
