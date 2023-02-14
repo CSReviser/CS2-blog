@@ -47,7 +47,7 @@ paginate = 20
       unsafe = true
 
 [permalinks]
-  posts = '/:year/:month/:day/:filename/'
+  posts = '/:year/:month/:day/'
       
 [outputs]
   home = [ "HTML", "AMP", "RSS" ]
