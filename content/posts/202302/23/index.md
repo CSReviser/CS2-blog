@@ -21,7 +21,7 @@ menu: main
 #### 変更後：https://www.nhk.or.jp/gogaku/
 #### [NHKゴガク](https://www.nhk.or.jp/gogaku/)サイトの下記のお知らせに対応した変更です。
 * #### [NHKゴガク](https://www.nhk.or.jp/gogaku/)
-> NHKゴガクで音声再生されない方へ
+> NHKゴガクで音声再生されない方へ         
 > 2月よりNHKゴガクでは
 > https://www.nhk.or.jp/gogaku/
 > で開いていただかないと音声再生ができなくなりました。
