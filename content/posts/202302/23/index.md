@@ -3,7 +3,6 @@ title: "2023/02/22版リリース"
 date: 2023-02-23
 categories: ["語学講座CS2"]
 tags: ["リリース"]
-menu: main
 ---
 #### 語学講座CS2の2023/02/22版をリリースしました。
 [語学講座CS2](https://csreviser.github.io/CaptureStream2/)
