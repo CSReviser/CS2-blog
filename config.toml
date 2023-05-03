@@ -35,7 +35,7 @@ paginate = 20
   twitter = "CSReviser"
   github = "CSReviser/CaptureStream2"
 
-[[Params.widgets.social.custom]]
+[Params.widgets.social.custom]
   url = "https://csreviser.github.io/CaptureStream2/"
   icon = "https://avatars.githubusercontent.com/u/46049273?v=4"
 
@@ -43,7 +43,7 @@ paginate = 20
     home = "right"
     list = "right"
     single = "right"
-    widgets = ["search", "recent", "categories", "taglist", "social"]
+    widgets = ["search", "recent", "categories", "taglist", "social", "social.custom"]
 
 [markup]
   [markup.goldmark]
