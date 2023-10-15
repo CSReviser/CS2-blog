@@ -6,8 +6,9 @@ tags: ["リリース"]
 menu: main
 ---
 #### 語学講座CS2の2023/10/14版をリリースしました。
-[語学講座CS2](https://csreviser.github.io/CaptureStream2/)
-** Windows用    
+[語学講座CS2](https://csreviser.github.io/CaptureStream2/)　　　　　
+
+* Windows用    
 [CaptureStream2-Windows-20231014.zip](https://github.com/CSReviser/CaptureStream2/releases/download/20231014/CaptureStream2-Windows-20231014.zip)   
 [CaptureStream2-Windows-x64-20231014.zip 【64bit版】](https://github.com/CSReviser/CaptureStream2/releases/download/20231014/CaptureStream2-Windows-x64-20231014.zip) 
 * Ubuntu用    
