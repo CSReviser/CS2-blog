@@ -14,8 +14,8 @@ menu: main
 * Ubuntu用    
 [CaptureStream2-Ubuntu-qt6-20231014.zip](https://github.com/CSReviser/CaptureStream2/releases/download/20231014/CaptureStream2-Ubuntu-qt6-20231014.zip)
 * MacOS用    
-[CaptureStream2-MacOS-Intel-20231014.dmg 【Intel版】](https://github.com/CSReviser/CaptureStream2/releases/download/20231014/CaptureStream2-MacOS-Intel-20231014.dmg)
-[CaptureStream2-MacOS-Univarsal-20231014.dmg 【Universal版】](https://github.com/CSReviser/CaptureStream2/releases/download/20231014/CaptureStream2-MacOS-Univarsal-20231014.dmg)
+[CaptureStream2-MacOS-Intel-20231014.dmg 【Intel版】](https://github.com/CSReviser/CaptureStream2/releases/download/20231014/CaptureStream2-MacOS-Intel-20231014.dmg)   
+[CaptureStream2-MacOS-Univarsal-20231014.dmg 【Universal版】](https://github.com/CSReviser/CaptureStream2/releases/download/20231014/CaptureStream2-MacOS-Univarsal-20231014.dmg)   
 [CaptureStream2-MacOS-ARM-20231014.dmg 【Apple Silicon版】](https://github.com/CSReviser/CaptureStream2/releases/download/20231014/CaptureStream2-MacOS-ARM-20231014.dmg)
 ####  　　　  
 #### ＜変更内容＞　
