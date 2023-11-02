@@ -3,7 +3,7 @@ title: "2023/10/24版リリース"
 date: 2023-10-24
 categories: ["語学講座CS2"]
 tags: ["リリース"]
-menu: main
+
 ---
 #### 語学講座CS2の2023/10/24版をリリースしました。
 [語学講座CS2](https://csreviser.github.io/CaptureStream2/)
