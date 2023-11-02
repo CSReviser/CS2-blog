@@ -1,6 +1,6 @@
 ---
 title: "2023/11/02版リリース"
-date: 2023-10-24
+date: 2023-11-02
 categories: ["語学講座CS2"]
 tags: ["リリース"]
 menu: main
