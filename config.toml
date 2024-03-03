@@ -32,7 +32,7 @@ paginate = 20
 
 # SNS等のユーザー名
 [Params.widgets.social]
-  x = "CSReviser"
+  x-twitter = "CSReviser"
   github = "CSReviser/CaptureStream2"
 
 #[Params.widgets.social.custom]
