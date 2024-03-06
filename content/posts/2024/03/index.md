@@ -11,7 +11,7 @@ menu: main
 ### [CaptureStream2-Windows-x86-20240306.zip 【32bit版】](https://github.com/CSReviser/CaptureStream2/releases/download/20240306/CaptureStream2-Windows-x86-20240306.zip)
 ### [CaptureStream2-Windows-x64-20240306.zip 【64bit版】](https://github.com/CSReviser/CaptureStream2/releases/download/20240306/CaptureStream2-Windows-x64-20240306.zip) 　　　　　　　　　　　　　　　　　　
 * ### Ubuntu用    
-### [CaptureStream2-Ubuntu-qt5-20240306.zip](https://github.com/CSReviser/CaptureStream2/releases/download/20240306/CaptureStream2-Ubuntu-20240306.zip)
+### [CaptureStream2-Ubuntu-20240306.zip](https://github.com/CSReviser/CaptureStream2/releases/download/20240306/CaptureStream2-Ubuntu-20240306.zip)
 * ### Macintosh用  ※Mac版は動作未確認（参考公開）  
 ### [CaptureStream2-MacOS-20240306.dmg](https://github.com/CSReviser/CaptureStream2/releases/download/20240306/CaptureStream2-MacOS-20240306.dmg)
 ####  　　　  
