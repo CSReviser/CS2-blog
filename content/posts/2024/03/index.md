@@ -13,7 +13,7 @@ menu: main
 * ### Ubuntu用    
 ### [CaptureStream2-Ubuntu-qt5-20240306.zip](https://github.com/CSReviser/CaptureStream2/releases/download/20240306/CaptureStream2-Ubuntu-20240306.zip)
 * ### Macintosh用  ※Mac版は動作未確認（参考公開）  
-### [CaptureStream2-MacOS-20240306.dmg 【Intel版】](https://github.com/CSReviser/CaptureStream2/releases/download/20240306/CaptureStream2-MacOS-20240306.dmg)
+### [CaptureStream2-MacOS-20240306.dmg](https://github.com/CSReviser/CaptureStream2/releases/download/20240306/CaptureStream2-MacOS-20240306.dmg)
 ####  　　　  
 #### ＜変更内容＞　　　
 #### ＜<全OS共通>＞
