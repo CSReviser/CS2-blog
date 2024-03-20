@@ -34,6 +34,8 @@ paginate = 20
 [Params.widgets.social]
   twitter = "CSReviser"
   github = "CSReviser/CaptureStream2"
+  x = "CSReviser"
+  x-twitter = "CSReviser"
 
 [[Params.widgets.social.custom]]
     title = "My Home Page"
