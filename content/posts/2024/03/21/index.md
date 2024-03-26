@@ -15,6 +15,8 @@ menu: main
 * ### Macintosh用  ※Mac版は動作未確認（参考公開）  
 ### [CaptureStream2-MacOS-20240321.dmg【macOS-12版】](https://github.com/CSReviser/CaptureStream2/releases/download/20240321/CaptureStream2-MacOS12-20240321.dmg)
 ### [CaptureStream2-MacOS-20240321.dmg【macOS-14版】](https://github.com/CSReviser/CaptureStream2/releases/download/20240321/CaptureStream2-MacOS14-20240321.dmg)
+### [CaptureStream2-MacOS-qt5-Intel-20240321.dmg【macOS 10.13〜】](https://github.com/CSReviser/CaptureStream2/releases/download/20240321/CaptureStream2-MacOS-qt5-Intel-20240321.dmg)
+### [CaptureStream2-MacOS-qt62-Univarsal-20240321.dmg【macOS 10.14〜】](https://github.com/CSReviser/CaptureStream2/releases/download/20240321/CaptureStream2-MacOS-qt62-Univarsal-20240321.dmg)
 ####  　　　  
 #### ＜変更内容＞　　　
 #### ＜全OS共通＞
