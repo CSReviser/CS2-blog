@@ -13,7 +13,7 @@ menu: main
 * ### Ubuntu用    
 ### [CaptureStream2-Ubuntu-20240413.zip](https://github.com/CSReviser/CaptureStream2/releases/download/20240413/CaptureStream2-Ubuntu-20240413.zip)
 * ### Macintosh用  ※Mac版は動作未確認（参考公開）  
-### [CaptureStream2-MacOS-20240413.dmg](https://github.com/CSReviser/CaptureStream2/releases/download/20240413/CaptureStream2-MacOS-20240413.dmg)
+### [CaptureStream2-MacOS-20240414.dmg](https://github.com/CSReviser/CaptureStream2/releases/download/20240414/CaptureStream2-MacOS-20240414.dmg)
 ####  　　　  
 ####  　　　  
 #### ＜変更内容＞　　　
@@ -31,6 +31,6 @@ menu: main
 #### （３）その他、2024年度対応
 ####  　　　  
 #### ＜macOS向け＞
-#### （１）メインウィンドウの縦方向高さ調整
+#### ~（１）メインウィンドウの縦方向高さ調整~
 ####     ※Mac版は動作確認していません。
 ####     ※Mac版のバイナリは10.1x以前のOSに非対応です。必要な方は自分でビルドしてください。
