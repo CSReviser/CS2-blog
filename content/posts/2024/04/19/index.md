@@ -3,7 +3,7 @@ title: "2024/04/19版リリース"
 date: 2024-04-19
 categories: ["語学講座CS2"]
 tags: ["リリース"]
-menu: main
+
 ---
 #### 語学講座CS2の2024/04/19版(10年記念版)をリリースしました。今回は更新は必要ありません。
 #### [語学講座CS2](https://csreviser.github.io/CaptureStream2/)
