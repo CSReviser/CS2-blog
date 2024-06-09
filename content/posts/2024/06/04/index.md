@@ -28,3 +28,4 @@ menu: main
 ####  　　　  
 ####  　　　  
 ####  　　　  
+### [Windows-qr5-20240604.zip 【64bit版】](https://github.com/CSReviser/CaptureStream2/releases/download/20240604/CaptureStream2-Windows-x64-qt5-20240604.zip) 　
