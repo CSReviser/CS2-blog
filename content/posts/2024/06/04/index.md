@@ -28,3 +28,4 @@ menu: main
 ####  　　　  
 ####  　　　  
 ####  　　　  
+### [MacOS-qt5-Intel-test-20240604.dmg](https://github.com/CSReviser/CaptureStream2/releases/download/20240604/CaptureStream2-MacOS-qt5-Intel-20240604.dmg)
