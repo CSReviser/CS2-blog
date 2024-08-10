@@ -5,7 +5,7 @@ categories: ["語学講座CS2"]
 tags: ["リリース"]
 menu: main
 ---
-#### 語学講座CS2の2024/08/10版(2024年8月らじる仕様変更対応版)をリリースしました。新旧変容されているので、緊急で更新は必要ありませんが更新適用を推奨します。
+#### 語学講座CS2の2024/08/10版(2024年8月らじる仕様変更対応版)をリリースしました。新旧併用されているので、緊急で更新は必要ありませんが更新適用を推奨します。
 #### [語学講座CS2](https://csreviser.github.io/CaptureStream2/)
 * ### Windows用
 ### [CaptureStream2-Windows-x86-20240810.zip 【32bit版】](https://github.com/CSReviser/CaptureStream2/releases/download/20240810/CaptureStream2-Windows-x86-20240810.zip)
