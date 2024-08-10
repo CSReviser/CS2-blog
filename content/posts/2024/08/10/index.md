@@ -1,6 +1,6 @@
 ---
 title: "2024/08/10版リリース"
-date: 2024-06-04
+date: 2024-08-10
 categories: ["語学講座CS2"]
 tags: ["リリース"]
 menu: main
