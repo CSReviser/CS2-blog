@@ -3,7 +3,7 @@ title: "2024/06/04版リリース"
 date: 2024-06-04
 categories: ["語学講座CS2"]
 tags: ["リリース"]
-
+menu: main
 ---
 #### 語学講座CS2の2024/06/04版(2024年6月緊急対応版)をリリースしました。今回は全ユーザーに更新適用が推奨されます。
 #### [語学講座CS2](https://csreviser.github.io/CaptureStream2/)
