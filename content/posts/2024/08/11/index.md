@@ -17,7 +17,7 @@ menu: main
 ### [CaptureStream2-MacOS-20240811.dmg](https://github.com/CSReviser/CaptureStream2/releases/download/20240811/CaptureStream2-MacOS-20240811-1.dmg)
 
 
-[macOS10.13以降　Intel向バイナリ](hhttps://github.com/CSReviser/CaptureStream2/releases/download/20240811/CaptureStream2-MacOS-qt5-Intel-20240811-1.dmg)
+[macOS10.13以降　Intel向バイナリ](https://github.com/CSReviser/CaptureStream2/releases/download/20240811/CaptureStream2-MacOS-qt5-Intel-20240811-1.dmg)
 
 ####  　　　  
 ####  　　　  
