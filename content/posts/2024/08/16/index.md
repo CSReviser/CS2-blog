@@ -15,8 +15,8 @@ menu: main
 ### [CaptureStream2-Ubuntu-20240816.zip](https://github.com/CSReviser/CaptureStream2/releases/download/20240816/CaptureStream2-Ubuntu-20240816.zip)
 * ### Macintosh用  ※Mac版は動作未確認（参考公開）  
 ### [CaptureStream2-MacOS-20240816.dmg](https://github.com/CSReviser/CaptureStream2/releases/download/20240816/CaptureStream2-MacOS-20240816.dmg)
-
-
+[macOS11以降　Universal向バイナリ（macOS13使用）](https://github.com/CSReviser/CaptureStream2/releases/download/20240816/CaptureStream2-MacOS13-20240816.dmg)
+[macOS11以降　Universal向バイナリ（macOS14使用）](https://github.com/CSReviser/CaptureStream2/releases/download/20240816/CaptureStream2-MacOS14-20240816.dmg)
 [macOS10.13以降　Intel向バイナリ](https://github.com/CSReviser/CaptureStream2/releases/download/20240816/CaptureStream2-MacOS-qt5-Intel-20240816.dmg)
 
 ####  　　　  
