@@ -6,7 +6,7 @@ tags: ["リリース"]
 menu: main
 ---
 #### 語学講座CS2の2024/08/16版をリリースしました。今回の更新の適用は必須ではありません。
-#### ※Mac版で発生している動作しない問題は原因不明のためこの版では修正されていません。macOS版で動作確認されている最新版は2024/06/04版です。
+####                
 #### [語学講座CS2](https://csreviser.github.io/CaptureStream2/)
 * ### Windows用
 ### [CaptureStream2-Windows-x86-20240816.zip 【32bit版】](https://github.com/CSReviser/CaptureStream2/releases/download/20240816/CaptureStream2-Windows-x86-20240816.zip)
