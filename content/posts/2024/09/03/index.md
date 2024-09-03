@@ -43,7 +43,7 @@ menu: main
 
 * ### Ubuntu用（参考公開）     
 ### [CaptureStream2-Ubuntu22.04-20240903.zip](https://github.com/CSReviser/CaptureStream2/releases/download/20240903/CaptureStream2-Ubuntu-20240903.zip)
-### [CaptureStream2-Ubuntu24.04-20240903.zip](https://github.com/CSReviser/CaptureStream2/releases/download/20240903/CaptureStream2-Ubuntu2404-20240903.zip)
+### [CaptureStream2-Ubuntu24.04-20240903.zip](https://github.com/CSReviser/CaptureStream2/releases/download/20240903/CaptureStream2-Ubuntu2404-20240903.zip) 　　　　　　　　　　　　　　　　　　
 
 * ### Macintosh用 （参考公開）  
 ### [CaptureStream2-MacOS-20240903.dmg](https://github.com/CSReviser/CaptureStream2/releases/download/20240903/CaptureStream2-MacOS-20240903.dmg)
