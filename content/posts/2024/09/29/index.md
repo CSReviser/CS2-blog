@@ -35,7 +35,7 @@ menu: main
 ### [CaptureStream2-Ubuntu22.04-20240929.zip](https://github.com/CSReviser/CaptureStream2/releases/download/20240929/CaptureStream2-Ubuntu-20240929.zip)
 ### [CaptureStream2-Ubuntu24.04-20240929.zip](https://github.com/CSReviser/CaptureStream2/releases/download/20240929/CaptureStream2-Ubuntu2404-20240929.zip) 　　　　　
 
-* ### Macintosh用 （参考公開）  
+* ### MaciOS用 （参考公開）  
 ### [CaptureStream2-MacOS-20240929.dmg](https://github.com/CSReviser/CaptureStream2/releases/download/20240929/CaptureStream2-MacOS-20240929.dmg)
 ### [macOS10.14以降　Universalバイナリ](https://github.com/CSReviser/CaptureStream2/releases/download/20240929/CaptureStream2-MacOS-qt62-20240929.dmg)
 ### [macOS10.13以降　Intel向バイナリ](https://github.com/CSReviser/CaptureStream2/releases/download/20240929/CaptureStream2-MacOS-qt5-Intel-20240929.dmg)
@@ -45,7 +45,9 @@ menu: main
 ### [macOS10.13以降　Intel向バイナリ（macOS15使用）](https://github.com/CSReviser/CaptureStream2/releases/download/20240929/CaptureStream2-MacOS15-qt5-Intel-20240929.dmg)
 ####  　　　  
 ####  　　　  
-####  　　　  
+* ### MacOS (ffmpeg Apple Silicon Binary）テスト用
+### [CaptureStream2-MacOS-arm-20240929.dmg](https://github.com/CSReviser/CaptureStream2/releases/download/20240929/CaptureStream2-MacOS-arm-20240929.dmg)　　
+#### 「"CaptureStream2.app"は壊れているため開けません。」と表示される場合はターミナルを開いて「」 
 ####  　　　  
 ####  　　　  
 ####  　　　  
