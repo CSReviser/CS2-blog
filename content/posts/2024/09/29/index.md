@@ -47,7 +47,7 @@ menu: main
 ####  　　　  
 * ### MacOS (ffmpeg Apple Silicon Binary）テスト用
 ### [CaptureStream2-MacOS-arm-20240929.dmg](https://github.com/CSReviser/CaptureStream2/releases/download/20240929/CaptureStream2-MacOS-arm-20240929.dmg)　　
-#### 「"CaptureStream2.app"は壊れているため開けません。」と表示される場合はターミナルを開いて「」 
+#### 「"CaptureStream2.app"は壊れているため開けません。」と表示される場合はターミナルを開いて「xattr -rc [appファイルのファイルパス]」を実行してみてください。
 ####  　　　  
 ####  　　　  
 ####  　　　  
