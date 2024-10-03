@@ -35,7 +35,10 @@ menu: main
 ### [CaptureStream2-Ubuntu22.04-20240929.zip](https://github.com/CSReviser/CaptureStream2/releases/download/20240929/CaptureStream2-Ubuntu-20240929.zip)
 ### [CaptureStream2-Ubuntu24.04-20240929.zip](https://github.com/CSReviser/CaptureStream2/releases/download/20240929/CaptureStream2-Ubuntu2404-20240929.zip) 　　　　　
 
-
+####  　　　  
+####  
+####  　　　  
+####  
 
 * **Mac版は[【MacOSユーザの方へ】](https://csreviser.github.io/CaptureStream2/macos)および[【必要要件】](https://csreviser.github.io/CaptureStream2/requirements)をご確認の上、動作確認にご協力いただける方は下記リンクから実行ファイルをダウンロードしてください。**  
 * ### MacOS用 （参考公開）  
