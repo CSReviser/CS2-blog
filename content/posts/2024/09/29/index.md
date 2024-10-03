@@ -40,7 +40,7 @@ menu: main
 ####  　　　  
 ####  
 
-* **Mac版は[【MacOSユーザの方へ】](https://csreviser.github.io/CaptureStream2/macos)および[【必要要件】](https://csreviser.github.io/CaptureStream2/requirements)をご確認の上、動作確認にご協力いただける方は下記リンクから実行ファイルをダウンロードしてください。**  
+* **Mac版は[【MacOSユーザの方へ】](https://csreviser.github.io/CaptureStream2/macos)および[【必要要件】](https://csreviser.github.io/CaptureStream2/requirements)をご確認の上、動作確認にご協力いただける方のみ下記リンクから実行ファイルをダウンロードしてください。**  
 * ### MacOS用 （参考公開）  
 ### [CaptureStream2-MacOS-20240929.dmg](https://github.com/CSReviser/CaptureStream2/releases/download/20240929/CaptureStream2-MacOS-20240929.dmg)
 ### [macOS10.14以降　Universalバイナリ](https://github.com/CSReviser/CaptureStream2/releases/download/20240929/CaptureStream2-MacOS-qt62-20240929.dmg)
