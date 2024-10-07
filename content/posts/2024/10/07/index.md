@@ -48,6 +48,11 @@ menu: main
 ### [CaptureStream2-MacOS-arm-20241007.dmg](https://github.com/CSReviser/CaptureStream2/releases/download/20241007/CaptureStream2-MacOS-arm-20241007.dmg)　　
 #### 「"CaptureStream2.app"は壊れているため開けません。」と表示される場合は[こちら](https://www.google.com/search?client=ubuntu-sn&channel=fs&q=%E3%81%AF%E5%A3%8A%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%81%9F%E3%82%81%E9%96%8B%E3%81%91%E3%81%BE%E3%81%9B%E3%82%93)を参考にお試しください。
 ####  　　　  
+* ### MacOS-15 (Beta）テスト用  
+### [macOS11以降　Universalバイナリ（macOS15使用）](https://github.com/CSReviser/CaptureStream2/releases/download/20241007/CaptureStream2-MacOS15-20241007.dmg)
+### [macOS10.13以降　Intel向バイナリ（macOS15使用）](https://github.com/CSReviser/CaptureStream2/releases/download/20241007/CaptureStream2-MacOS15-qt5-Intel-20241007.dmg)
+####  　　　  
+####  　　
 ####  　　　  
 ####  　　　  
 ####  　　　  
