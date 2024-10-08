@@ -52,6 +52,7 @@ menu: main
 ### [macOS11以降　Universalバイナリ（macOS15使用）](https://github.com/CSReviser/CaptureStream2/releases/download/20241007/CaptureStream2-MacOS15-20241007.dmg)
 ### [macOS10.13以降　Intel向バイナリ（macOS15使用）](https://github.com/CSReviser/CaptureStream2/releases/download/20241007/CaptureStream2-MacOS15-qt5-Intel-20241007.dmg)
 ####  　　　  
+  * **Macユーザー間の情報交換の場として[こちらに【macOS関係の情報交換】](https://github.com/CSReviser/CaptureStream2/discussions/24)を作成しました。**
 ####  　　
 ####  　　　  
 ####  　　　  
