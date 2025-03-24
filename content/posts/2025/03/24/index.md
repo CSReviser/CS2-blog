@@ -50,7 +50,7 @@ menu: main
 ####  　　　  
 ####  　　　  
 ####  　　　  
-  * **Macユーザー間の情報交換の場として[こちらに【macOS関係の情報交換】](https://github.com/CSReviser/CaptureStream2/discussions/25)を作成しました。**
+  * **Macユーザー間の情報交換の場として[こちらに【macOS関係の情報交換】](https://github.com/CSReviser/CaptureStream2/discussions/24)を作成しました。**
 ####  　　
 ####  　　　  
 ####  　　　  
